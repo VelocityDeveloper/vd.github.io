@@ -1,0 +1,26 @@
+{
+    "name": "Velocity Security",
+    "version": "1.0.4",
+    "download_url": "https://velocitydeveloper.id/auto-update/plugins/velocity-addons/velocity-addons.zip",
+    "homepage": "http://velocitydeveloper.com/",
+    "requires": "4.5",
+    "tested": "6.2",
+    "last_updated": "2023-06-12 10:09:00",
+    "upgrade_notice": "Selalu Update ke versi terbaru.",
+    "author": "Velocity Developer",
+    "author_homepage": "http://velocitydeveloper.com/",
+    "sections": {
+      "description": "All In One Velocity Security & Addons",
+      "installation": "Klik Install.",
+      "changelog": "1.0.2 <p>Auto Update Ready</p>",
+      "custom_section": "-"
+    },
+    "icons": {
+      "1x": "https://velocitydeveloper.id/auto-update/plugins/velocity-addons/kecil.png",
+      "2x": "https://velocitydeveloper.id/auto-update/plugins/velocity-addons/besar.png"
+    },
+    "banners": {
+      "low": "https://velocitydeveloper.id/auto-update/plugins/velocity-addons/low.jpg",
+      "high": "http://w-shadow.com/files/external-update-example/assets/low.jpg"
+    }
+  }
